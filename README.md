@@ -21,7 +21,7 @@
 Este repositorio alberga el proyecto final del Módulo Programador, cohorte 2024.  
 El proyecto tiene como objetivo desarrollar una pequeña aplicación que demuestre la integración de conceptos de programación, bases de datos. Tambien, que aborde aspectos éticos y profesionales según la normativa vigente en la provincia de Córdoba.  
 
-### Estructura del Repositorio
+## Estructura del Repositorio
 
 Main:  
 |  
@@ -30,8 +30,6 @@ Main:
 |____ Main  
 |  
 |____ BaseDeDatos  
-
-
 
 
 ## Stack Tecnológico.  
